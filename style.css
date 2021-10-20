@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top {
+    width: 100%;
+    padding: 1rem 11rem ;
+    background-color: #d7e9ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.top h4 {
+    font-size: 1rem;
+    font-family: Mallory-Medium,'Gill Sans','Gill Sans MT',Calibri,Arial,sans-serif;
+    line-height: 2.21428571;
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+.top p {
+    text-decoration: underline; 
+    text-underline-position:under;
+    text-decoration-thickness: 0.5px;
+    line-height: 2.2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    font-weight:lighter;
+}
+
+.top p a {
+    color: black;
+}
+
+.main_nav{
+    display: flex;
+    flex-wrap: nowrap;
+    padding:2.5rem 8rem;
+}
+
+.main_nav_logo img {
+    height: 5rem;
+    width: 10rem;
+    padding: 1.3rem 2.8rem;
+}
+
+.main_nav_menubox{
+    
+}
+
+.main_nav_top_menu {
+    display: flex;
+    flex-wrap: nowrap;
+    font-family: Mallory-Medium,'Gill Sans','Gill Sans MT',Calibri,Arial,sans-serif;
+    padding: 1rem 4rem 0.5rem 10rem;
+}
+
+.main_nav_top_menu a {
+    padding: 0 0.5rem;
+    font-size: 1rem;
+    color: #286dc0;
+}
+
+.main_nav_top_button{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0 1rem;
+    
+}
+
+.search_but {
+    padding: 1rem 1.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+.search_but a {
+    color: #00356b;
+    font-family: Mallory-Medium,'Gill Sans','Gill Sans MT',Calibri,Arial,sans-serif;
+    font-weight: 100;
+    font-size: 0.8rem;
+}
+
+.info_but {
+    margin: 0 0.5rem;
+    padding: 1rem 3rem;
+}
+
+.go_but{
+    padding: 1rem 1rem;
+}
+
