@@ -20,13 +20,13 @@
 밑줄 또는 윗줄 같은 요소의 텍스트에서 사용되는 장식 라인의 획의 두께를 설정한다.
 ex) text-decoration-thickness : 1px;
 
-### 원본화면
-screenshot/yale_1494x366_full.png
-screenshot/yale_768x1000_ipad.png
-screenshot/yale_414x1000_mob.png
+# 원본화면
+![src](screenshot/yale_1494x366_full.png?raw=ture)
+![src](screenshot/yale_768x1000_ipad.png?raw=true)
+![src](screenshot/yale_414x1000_mob.png?raw=true)
 ### Pc화면
-screenshot/yale_1494x366_clone.png
+![src](screenshot/yale_1494x366_clone.png?raw=true)
 ### 태블릿 화면
-screenshot/yale_768x1000_clone.png
+![src](screenshot/yale_768x1000_clone.png?raw=true)
 ### 모바일화면
-screenshot/yale_414x1000_clone.png
+![src](screenshot/yale_414x1000_clone.png?raw=ture)
